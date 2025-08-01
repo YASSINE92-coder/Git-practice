@@ -1,20 +1,11 @@
 # Git-practice
 
-Projet a realiser par : Yassine - Nabil - Aymen - Haitam
-
-## Astuces Git pour Développeurs
-
-- `git stash` : Met de côté les changements non commités.
-- `git revert` : Annule un commit spécifique sans supprimer l’historique.
-- `git log --oneline` : Affiche l’historique sous forme condensée.
-=======
 Yassine team leader : 
 bonjour tout le monde ja suis yassine , I am happy to know something about you !!
 
 Projet a realiser par : Yassine - Nabil - Ayman - Haitam
-# Pourquoi GitHub est important
-GitHub est une plateforme qui permet de stocker, partager et collaborer sur du code. Il facilite le travail en équipe grâce au système de gestion de versions (Git) et permet de montrer ses projets aux recruteurs.
 
+# Role du projet
 
 1. Chef de projet (Project Manager)
 Responsabilités :
@@ -87,5 +78,16 @@ Facilite les réunions agiles (daily, sprint, etc.)
 Supprime les obstacles pour l’équipe
 
 Veille au respect de la méthode Scrum
+
+# Pourquoi GitHub est important
+GitHub est une plateforme qui permet de stocker, partager et collaborer sur du code. Il facilite le travail en équipe grâce au système de gestion de versions (Git) et permet de montrer ses projets aux recruteurs.
+
+
+## Astuces Git pour Développeurs
+
+- `git stash` : Met de côté les changements non commités.
+- `git revert` : Annule un commit spécifique sans supprimer l’historique.
+- `git log --oneline` : Affiche l’historique sous forme condensée.
+=======
 
 
