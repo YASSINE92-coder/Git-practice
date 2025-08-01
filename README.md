@@ -1,8 +1,13 @@
 # Git-practice
+
+Projet a realiser par : Yassine - Nabil - Aymen - Haitam
+Yassine team leader : 
+bonjour tout le monde ja suis yassine , I am happy to know something about you !!
+
 Projet a realiser par : Yassine - Nabil - Ayman - Haitam
 # Pourquoi GitHub est important
 GitHub est une plateforme qui permet de stocker, partager et collaborer sur du code. Il facilite le travail en équipe grâce au système de gestion de versions (Git) et permet de montrer ses projets aux recruteurs.
-======
+
 
 1. Chef de projet (Project Manager)
 Responsabilités :
@@ -75,3 +80,4 @@ Facilite les réunions agiles (daily, sprint, etc.)
 Supprime les obstacles pour l’équipe
 
 Veille au respect de la méthode Scrum
+
