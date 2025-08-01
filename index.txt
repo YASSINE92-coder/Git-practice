@@ -1,2 +1,0 @@
-# Pourquoi GitHub est important
-GitHub est une plateforme qui permet de stocker, partager et collaborer sur du code. Il facilite le travail en équipe grâce au système de gestion de versions (Git) et permet de montrer ses projets aux recruteurs.
