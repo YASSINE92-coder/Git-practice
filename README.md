@@ -86,7 +86,5 @@ GitHub est une plateforme qui permet de stocker, partager et collaborer sur du c
 ## Astuces Git pour Développeurs
 
 - `git stash` : Met de côté les changements non commités.
-- `git revert` : Annule un commit spécifique sans supprimer l'historique.
-- `git log --oneline` : Affiche l'historique sous forme condensée.
-
-
+- `git revert` : Annule un commit spécifique sans supprimer l’historique.
+- `git log --oneline` : Affiche l’historique sous forme condensée.
